@@ -100,7 +100,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #FAF4F4;
+    background-color: #c3f1b5;
 
 }
 
@@ -129,7 +129,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #CB6D43;
+    background-color: #34741b;
     border: none;
     font-weight: bold;
 }
@@ -159,4 +159,8 @@ h2 {
 }
 .apresenta-lista{
     display: none;
+}
+
+.video {
+    text-align: center;
 }
